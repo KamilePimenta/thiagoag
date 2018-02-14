@@ -11,7 +11,7 @@ gulp.task('sass', function() {
 
 // task para watch
 gulp.task('watch', function(){
-    gulp.watch('sass/**/*.sass', ['sass']);
+	gulp.watch('sass/**/*.sass', ['sass']);
 });
 
 // task default gulp

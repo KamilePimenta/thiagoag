@@ -1,6 +1,6 @@
-.gitignore
-.idea/
-_grids/
-_layout
-bower_components/
-node_modules/
+node_modules
+._.DS_Store
+.sass-cache
+.sass-cache/*
+.__*
+

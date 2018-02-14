@@ -1,29 +1,24 @@
 {
-  "name": "thiagoag",
+  "name": "criando-site-responsivo-do-comeco-ao-fim",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KamilePimenta/thiagoag.git"
+    "url": "git+https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KamilePimenta/thiagoag/issues"
+    "url": "https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim/issues"
   },
-  "homepage": "https://github.com/KamilePimenta/thiagoag#readme",
-  "description": "",
+  "homepage": "https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-ruby-sass": "^3.0.0"
-  },
-  "dependencies": {
-    "breakpoint-sass": "^2.7.1",
-    "less": "^3.0.0",
-    "sass": "^1.0.0-beta.5.2",
-    "scss": "^0.2.4"
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.9"
   }
 }
