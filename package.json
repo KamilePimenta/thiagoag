@@ -17,6 +17,13 @@
   "homepage": "https://github.com/KamilePimenta/thiagoag#readme",
   "description": "",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^3.0.0"
+  },
+  "dependencies": {
+    "breakpoint-sass": "^2.7.1",
+    "less": "^3.0.0",
+    "sass": "^1.0.0-beta.5.2",
+    "scss": "^0.2.4"
   }
 }

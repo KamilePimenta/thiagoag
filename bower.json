@@ -5,7 +5,7 @@
   "author": "Kamile Pimenta",
   "dependencies": {
     "jquery": "~2.0.3",
-    "bootstrap": "~3.3.2",
+    "bootstrap-sass": "~3.3.7",
     "fontawesome": "~4.0",
     "normalize-css": "~7.0"
   }

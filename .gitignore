@@ -1,4 +1,6 @@
 .gitignore
 .idea/
+_grids/
+_layout
 bower_components/
 node_modules/
