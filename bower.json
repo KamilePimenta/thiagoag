@@ -1,0 +1,12 @@
+{
+  "name": "thiagoag",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Kamile Pimenta",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.0",
+    "normalize-css": "~7.0"
+  }
+}
